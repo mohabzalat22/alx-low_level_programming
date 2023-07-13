@@ -1,9 +1,9 @@
 #include<stdio.h>
-/**main
- * description:puts function return zero 
- *
+/**
+ * main - main block
+ * Return: 0
  */
-int main(void) /*main function*/
+int main(void)
 {
 puts("\"Programming is like building a multilingual puzzle");
 return 0;
