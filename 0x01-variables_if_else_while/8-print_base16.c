@@ -12,10 +12,10 @@ int main(void)
 		putchar(48 + c);
 		c++;
 	}
-	
-	c = 'A';
-	
-	while (c < 'G')
+
+	c = 'a';
+
+	while (c < 'g')
 	{
 		putchar(c);
 	c++;
