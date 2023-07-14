@@ -4,9 +4,10 @@
  * main - main block
  * Return: 0
  */
-int main()
+int main(void)
 {
 	char c = 'a';
+
 	while( c <= 'z'){
 		putchar(c);
 		c++;
