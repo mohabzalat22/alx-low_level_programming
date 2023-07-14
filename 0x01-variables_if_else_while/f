@@ -1,0 +1,7 @@
+#!/bin/bash
+echo "file.c :"
+read var
+string="#include<stdio.h>";
+echo $string > $var
+vi $var
+
