@@ -8,13 +8,13 @@
  */
 int main(void)
 {
-	int c = 0;
+	char c = '0';
 
-	while (c < 10)
+	while (c <= '9')
 	{
 		putchar(c);
 
-		if (c == 9)
+		if (c == '9')
 		{
 			/*non*/
 		}
