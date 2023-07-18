@@ -10,6 +10,6 @@ for (int i = 0; i<8; i++)
 {
 _putchar(s[i]);
 }
-__putchar('\n');
+_putchar('\n');
 return (0);
 }
